@@ -13,5 +13,5 @@ We use data from three external places: Wikipedia, Kaggle, and MovieLens.
 
 
 The cleaned movie data contains 6,052 rows, and the ratings data contains 26,024,289 rows of data.
-![Movies Query](
-![Ratings Query](
+![Movies Query](https://github.com/andeevosters/Movies_ETL/blob/main/Resources/movies_query.png)
+![Ratings Query](https://github.com/andeevosters/Movies_ETL/blob/main/Resources/ratings_query.png)
