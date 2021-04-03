@@ -1,4 +1,4 @@
-# Movies-ETL
+# Movies_ETL
 
 ## Scope
 Amazing Prime wants to use and update a dataset we created on a daily basis. We created an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing PostgreSQL tables. 
